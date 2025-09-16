@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://github.com/rafifebrianachmad/portfolio/blob/main/img/linerainbow.gif" alt="linerainbow animation">
-</div>
 <br />
 <img src="https://github.com/rafifebrianachmad/portfolio/blob/main/img/banner.png?raw=true" width ="100%">
 <br />
@@ -19,5 +16,5 @@ An IT enthusiast with a solid academic background from Bogor Agricultural Univer
 
 <br/>
 <div align="center">
-  <img src="https://github.com/rafifebrianachmad/portfolio/blob/main/img/linerainbow.gif" alt="linerainbow animation">
+  <img src="https://github.com/rafifebrianachmad/portfolio/blob/main/img/linered.gif" alt="linerainbow animation">
 </div>
