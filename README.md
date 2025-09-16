@@ -1,13 +1,28 @@
 <img src="https://github.com/rafifebrianachmad/portfolio/blob/main/img/banner.png?raw=true" width ="100%">
 <br />
 
+<br/>
+<div align="center">
+  <img src="https://github.com/rafifebrianachmad/portfolio/blob/main/img/linerainbow.gif" alt="linerainbow animation">
+</div>
+
 ## 💫 About Me:
 
 An IT enthusiast with a solid academic background from Bogor Agricultural University. Driven by a passion for technology, I am continuously expanding my knowledge in IT and network engineering. My strengths include network engineering, system administration, and IT infrastructure management. I am dedicated to delivering innovative and efficient technology solutions that empower business growth.
 
+<br/>
+<div align="center">
+  <img src="https://github.com/rafifebrianachmad/portfolio/blob/main/img/linerainbow.gif" alt="linerainbow animation">
+</div>
+
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafifebrian.achmad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafifebrianachmad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafifebrian05@gmail.com)
+
+<br/>
+<div align="center">
+  <img src="https://github.com/rafifebrianachmad/portfolio/blob/main/img/linerainbow.gif" alt="linerainbow animation">
+</div>
 
 # 💻 Tech Stack:
 
